@@ -1,0 +1,5 @@
+Patron de Diseño Singleton -> Nos permite mas de un objeto de una clase, esto garantiza que la clase solo tenga una instancia a haya menor consumo de resursos de memoria, podemos usar cuando exite cuando una unica clase de base de datos y se comparte en distintas partes de la aplicaion.
+
+Patron de Diseño Adapter -> Nos permite adaptar una clase vieja o nueva que tiene diferencias con la clase que tenemos en el proyecto la trasforma y la hace reconocible.
+
+Patron de Diseño Facade -> Nos proporciona una interfaz facil de usar encondiendo la complejidad de de dicha clase, este patron de usa en frameworks, bilbiotecas. 
